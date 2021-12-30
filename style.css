@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url('img/WhatsApp\ Image\ 2021-12-30\ at\ 22.48.29.jpeg');
+  background-attachment: fixed;
+}
+
+#projects {
+  background-image: url('img/WhatsApp\ Image\ 2021-12-30\ at\ 22.48.29.jpeg');
+  background-attachment: fixed;
+}
+section {
+  padding-top: 5rem;
+}
